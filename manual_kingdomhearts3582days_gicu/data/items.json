@@ -1,0 +1,1346 @@
+[
+	{
+		"count": "10",
+		"name": "Hi-Potion",
+		"category": ["Item Panels"],
+		"filler": true
+	},
+	{
+		"count": "10",
+		"name": "Mega-Potion",
+		"category": ["Item Panels"],
+		"filler": true
+	},
+	{
+		"count": "10",
+		"name": "Ether",
+		"category": ["Item Panels"],
+		"filler": true
+	},
+	{
+		"count": "10",
+		"name": "Hi-Ether",
+		"category": ["Item Panels"],
+		"filler": true
+	},
+	{
+		"count": "10",
+		"name": "Mega-Ether",
+		"category": ["Item Panels"],
+		"filler": true
+	},
+	{
+		"count": "10",
+		"name": "Elixir",
+		"category": ["Item Panels"],
+		"filler": true
+	},
+	{
+		"count": "10",
+		"name": "Megalixir",
+		"category": ["Item Panels"],
+		"filler": true
+	},
+	{
+		"count": "10",
+		"name": "Panacea",
+		"category": ["Item Panels"],
+		"filler": true
+	},
+	{
+		"count": "10",
+		"name": "Limit Recharge",
+		"category": ["Item Panels"],
+		"filler": true
+	},
+	{
+		"count": "32",
+		"name": "Level Up",
+		"category": ["Support Panels"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "LV Doubler (5)",
+		"category": ["Support Panels"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "LV Doubler (6)",
+		"category": ["Support Panels"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "LV Tripler (4)",
+		"category": ["Support Panels"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "LV Quadrupler (3)",
+		"category": ["Support Panels"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Backpack",
+		"category": ["Support Panels"],
+		"useful": true
+	},
+	{
+		"count": "3",
+		"name": "Pack Extender (4)",
+		"category": ["Support Panels"],
+		"useful": true
+	},
+	{
+		"count": "10",
+		"name": "Fire",
+		"category": ["Magic Panels"],
+		"useful": true
+	},
+	{
+		"count": "10",
+		"name": "Fira",
+		"category": ["Magic Panels"],
+		"useful": true
+	},
+	{
+		"count": "10",
+		"name": "Firaga",
+		"category": ["Magic Panels"],
+		"useful": true
+	},
+	{
+		"count": "10",
+		"name": "Blizzard",
+		"category": ["Magic Panels"],
+		"useful": true
+	},
+	{
+		"count": "10",
+		"name": "Blizzara",
+		"category": ["Magic Panels"],
+		"useful": true
+	},
+	{
+		"count": "10",
+		"name": "Blizzaga",
+		"category": ["Magic Panels"],
+		"useful": true
+	},
+	{
+		"count": "10",
+		"name": "Thunder",
+		"category": ["Magic Panels"],
+		"useful": true
+	},
+	{
+		"count": "10",
+		"name": "Thundara",
+		"category": ["Magic Panels"],
+		"useful": true
+	},
+	{
+		"count": "10",
+		"name": "Thundaga",
+		"category": ["Magic Panels"],
+		"useful": true
+	},
+	{
+		"count": "10",
+		"name": "Aero",
+		"category": ["Magic Panels"],
+		"useful": true
+	},
+	{
+		"count": "10",
+		"name": "Aerora",
+		"category": ["Magic Panels"],
+		"useful": true
+	},
+	{
+		"count": "10",
+		"name": "Aeroga",
+		"category": ["Magic Panels"],
+		"useful": true
+	},
+	{
+		"count": "10",
+		"name": "Cure",
+		"category": ["Magic Panels"],
+		"useful": true
+	},
+	{
+		"count": "10",
+		"name": "Cura",
+		"category": ["Magic Panels"],
+		"useful": true
+	},
+	{
+		"count": "10",
+		"name": "Curaga",
+		"category": ["Magic Panels"],
+		"useful": true
+	},
+	{
+		"count": "3",
+		"name": "Magic LV2 (4)",
+		"category": ["Magic Panels"],
+		"useful": true
+	},
+	{
+		"count": "2",
+		"name": "Magic LV3 (4)",
+		"category": ["Magic Panels"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Magic LV4 (4)",
+		"category": ["Magic Panels"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Dodge Roll",
+		"category": ["Ability Panels"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Dodge Roll (3)",
+		"category": ["Ability Panels"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Dodge Roll LV+",
+		"category": ["Ability Panels"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Dodge Rush",
+		"category": ["Ability Panels"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Dodging Deflect",
+		"category": ["Ability Panels"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Dodge Combo",
+		"category": ["Ability Panels"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Auto-Dodge",
+		"category": ["Ability Panels"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Block (2)",
+		"category": ["Ability Panels"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Block (4)",
+		"category": ["Ability Panels"],
+		"useful": true
+	},
+	{
+		"count": "3",
+		"name": "Block LV+",
+		"category": ["Ability Panels"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Perfect Block",
+		"category": ["Ability Panels"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Block-Counter",
+		"category": ["Ability Panels"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Block-Retreat",
+		"category": ["Ability Panels"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Sliding Block",
+		"category": ["Ability Panels"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Block-Jump",
+		"category": ["Ability Panels"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Fire Block",
+		"category": ["Ability Panels"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Blizzard Block",
+		"category": ["Ability Panels"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Thunder Block",
+		"category": ["Ability Panels"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Aero Block",
+		"category": ["Ability Panels"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Block Bonus",
+		"category": ["Ability Panels"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Round Block",
+		"category": ["Ability Panels"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Auto-Block",
+		"category": ["Ability Panels"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Aerial Recovery",
+		"category": ["Ability Panels"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Aerial Recovery (3)",
+		"category": ["Ability Panels"],
+		"useful": true
+	},
+	{
+		"count": "2",
+		"name": "A. Recovery LV+",
+		"category": ["Ability Panels"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Quick Recovery",
+		"category": ["Ability Panels"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Aerial Payback",
+		"category": ["Ability Panels"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Smash Recovery",
+		"category": ["Ability Panels"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Air Slide (2)",
+		"category": ["Ability Panels"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Air Slide (5)",
+		"category": ["Ability Panels"],
+		"useful": true
+	},
+	{
+		"count": "4",
+		"name": "Air Slide LV+",
+		"category": ["Ability Panels"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Air Rush",
+		"category": ["Ability Panels"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Sliding Dash",
+		"category": ["Ability Panels"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Sliding Dash (3)",
+		"category": ["Ability Panels"],
+		"useful": true
+	},
+	{
+		"count": "2",
+		"name": "Sliding Dash LV+",
+		"category": ["Ability Panels"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Glide (3)",
+		"category": ["Ability Panels"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Glide (5)",
+		"category": ["Ability Panels"],
+		"useful": true
+	},
+	{
+		"count": "4",
+		"name": "Glide LV+",
+		"category": ["Ability Panels"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Homing Glide",
+		"category": ["Ability Panels"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Rocket Glide",
+		"category": ["Ability Panels"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Haste",
+		"category": ["Ability Panels"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Haste (3)",
+		"category": ["Ability Panels"],
+		"useful": true
+	},
+	{
+		"count": "2",
+		"name": "Haste LV+",
+		"category": ["Ability Panels"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "High Jump",
+		"category": ["Ability Panels"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "High Jump (3)",
+		"category": ["Ability Panels"],
+		"useful": true
+	},
+	{
+		"count": "2",
+		"name": "High Jump LV+",
+		"category": ["Ability Panels"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Float",
+		"category": ["Ability Panels"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Treasure Magnet",
+		"category": ["Ability Panels"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Treasure Magnet (3)",
+		"category": ["Ability Panels"],
+		"useful": true
+	},
+	{
+		"count": "2",
+		"name": "Treasure Magnet LV+",
+		"category": ["Ability Panels"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Auto-Life (3)",
+		"category": ["Ability Panels"],
+		"useful": true
+	},
+	{
+		"count": "2",
+		"name": "Auto-Life LV+",
+		"category": ["Ability Panels"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Limit Boost",
+		"category": ["Ability Panels"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Final Limit",
+		"category": ["Ability Panels"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Scan",
+		"category": ["Ability Panels"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Range Extender",
+		"category": ["Ability Panels"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Auto-Lock",
+		"category": ["Ability Panels"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Ultima Weapon",
+		"category": ["Ability Panels"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Skill Gear",
+		"category": ["Weapon Panels"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Skill Gear+ (2)",
+		"category": ["Weapon Panels"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Technical Gear (3)",
+		"category": ["Weapon Panels"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Technical Gear+ (3)",
+		"category": ["Weapon Panels"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Duel Gear (4)",
+		"category": ["Weapon Panels"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Duel Gear+ (4)",
+		"category": ["Weapon Panels"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Duel Gear++ (5)",
+		"category": ["Weapon Panels"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Loaded Gear",
+		"category": ["Weapon Panels"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Loaded Gear+ (2)",
+		"category": ["Weapon Panels"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Chrono Gear (3)",
+		"category": ["Weapon Panels"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Chrono Gear+ (3)",
+		"category": ["Weapon Panels"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Phantom Gear (4)",
+		"category": ["Weapon Panels"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Phantom Gear+ (4)",
+		"category": ["Weapon Panels"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Phantom Gear++ (5)",
+		"category": ["Weapon Panels"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Life Gear (3)",
+		"category": ["Weapon Panels"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Lift Gear+ (3)",
+		"category": ["Weapon Panels"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Nimble Gear (4)",
+		"category": ["Weapon Panels"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Nimble Gear+ (4)",
+		"category": ["Weapon Panels"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Wild Gear (3)",
+		"category": ["Weapon Panels"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Wild Gear+ (3)",
+		"category": ["Weapon Panels"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Ominous Gear (4)",
+		"category": ["Weapon Panels"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Ominous Gear+ (4)",
+		"category": ["Weapon Panels"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Valor Gear (2)",
+		"category": ["Weapon Panels"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Valor Gear+ (2)",
+		"category": ["Weapon Panels"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Fearless Gear (3)",
+		"category": ["Weapon Panels"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Fearless Gear+ (3)",
+		"category": ["Weapon Panels"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Prestige Gear (4)",
+		"category": ["Weapon Panels"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Prestige Gear+ (4)",
+		"category": ["Weapon Panels"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Crisis Gear (5)",
+		"category": ["Weapon Panels"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Crisis Gear+ (5)",
+		"category": ["Weapon Panels"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Omega Gear (6)",
+		"category": ["Weapon Panels"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Omega Gear+ (6)",
+		"category": ["Weapon Panels"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Hazard Gear (5)",
+		"category": ["Weapon Panels"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Hazard Gear+ (5)",
+		"category": ["Weapon Panels"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Rage Gear(5)",
+		"category": ["Weapon Panels"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Rage Gear+ (5)",
+		"category": ["Weapon Panels"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Champion Gear (5)",
+		"category": ["Weapon Panels"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Champion Gear+ (5)",
+		"category": ["Weapon Panels"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Ultimate Gear (6)",
+		"category": ["Weapon Panels"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Ultimate Gear+ (6)",
+		"category": ["Weapon Panels"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Pandora's Gear (5)",
+		"category": ["Weapon Panels"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Pandora's Gear+ (5)",
+		"category": ["Weapon Panels"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Zero Gear (5)",
+		"category": ["Weapon Panels"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Casual Gear (2)",
+		"category": ["Weapon Panels"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Mystery Gear (3)",
+		"category": ["Weapon Panels"],
+		"useful": true
+	},
+	{
+		"count":"3",
+		"name": "Ability Unit",
+		"category": ["Weapon Panels"],
+		"useful": true
+	},
+	{
+		"count":"5",
+		"name": "Power Unit",
+		"category": ["Weapon Panels"],
+		"useful": true
+	},
+	{
+		"count":"5",
+		"name": "Magic Unit",
+		"category": ["Weapon Panels"],
+		"useful": true
+	},
+	{
+		"count":"5",
+		"name": "Guard Unit",
+		"category": ["Weapon Panels"],
+		"useful": true
+	},
+	{
+		"count":"5",
+		"name": "Sight Unit",
+		"category": ["Weapon Panels"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Sign of Resolve",
+		"category": ["Ring Panels"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Brawl Ring",
+		"category": ["Ring Panels"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Magic Ring",
+		"category": ["Ring Panels"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Soldier Ring",
+		"category": ["Ring Panels"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Fencer's Ring",
+		"category": ["Ring Panels"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Fire Charm",
+		"category": ["Ring Panels"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Flower Charm",
+		"category": ["Ring Panels"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Strike Ring",
+		"category": ["Ring Panels"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Lucky Ring",
+		"category": ["Ring Panels"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Blizzard Charm",
+		"category": ["Ring Panels"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "White Ring",
+		"category": ["Ring Panels"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Knight's Defense",
+		"category": ["Ring Panels"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Raider's Ring",
+		"category": ["Ring Panels"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Thunder Charm",
+		"category": ["Ring Panels"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Recovery Ring",
+		"category": ["Ring Panels"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Vitality Ring",
+		"category": ["Ring Panels"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Rainforce Ring",
+		"category": ["Ring Panels"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Double Up",
+		"category": ["Ring Panels"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Storm's Eye",
+		"category": ["Ring Panels"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Critical Ring",
+		"category": ["Ring Panels"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Fairy Circle",
+		"category": ["Ring Panels"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Full Circle",
+		"category": ["Ring Panels"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Lucky Star",
+		"category": ["Ring Panels"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Charge Ring",
+		"category": ["Ring Panels"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Eternal Ring",
+		"category": ["Ring Panels"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Carmine Blight",
+		"category": ["Ring Panels"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Frozen Blight",
+		"category": ["Ring Panels"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Safety Ring",
+		"category": ["Ring Panels"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Princess's Crown",
+		"category": ["Ring Panels"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Lunar Strike",
+		"category": ["Ring Panels"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Crimson Blood",
+		"category": ["Ring Panels"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Deep Sky",
+		"category": ["Ring Panels"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Protect Ring",
+		"category": ["Ring Panels"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Might Crown",
+		"category": ["Ring Panels"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Critical Sun",
+		"category": ["Ring Panels"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Three Stars",
+		"category": ["Ring Panels"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Imperial Crown",
+		"category": ["Ring Panels"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Witch's Chaos",
+		"category": ["Ring Panels"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Rune Ring",
+		"category": ["Ring Panels"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Extreme",
+		"category": ["Ring Panels"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Master's Circle",
+		"category": ["Ring Panels"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Nothing to Fear",
+		"category": ["Ring Panels"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Space in Its Place",
+		"category": ["Ring Panels"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Flagging Winds",
+		"category": ["Ring Panels"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Ice Breaker",
+		"category": ["Ring Panels"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Down to Earth",
+		"category": ["Ring Panels"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Lose Your Illusion",
+		"category": ["Ring Panels"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Sighing of the Moon",
+		"category": ["Ring Panels"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Tears of Flame",
+		"category": ["Ring Panels"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Parting of Waters",
+		"category": ["Ring Panels"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Test of Time",
+		"category": ["Ring Panels"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Flowers Athirst",
+		"category": ["Ring Panels"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Stolen Thunder",
+		"category": ["Ring Panels"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Dying of the Light",
+		"category": ["Ring Panels"],
+		"useful": true
+	},
+	{
+		"count": "14",
+		"name": "Progressive Agrabah Missions",
+		"category": ["Missions"],
+		"progression": true
+	},
+	{
+		"count": "13",
+		"name": "Progressive Beast's Castle Missions",
+		"category": ["Missions"],
+		"progression": true
+	},
+	{
+		"count": "10",
+		"name": "Progressive Halloween Town Missions",
+		"category": ["Missions"],
+		"progression": true
+	},
+	{
+		"count": "8",
+		"name": "Progressive Neverland Missions",
+		"category": ["Missions"],
+		"progression": true
+	},
+	{
+		"count": "8",
+		"name": "Progressive Olympus Coliseum Missions",
+		"category": ["Missions"],
+		"progression": true
+	},
+	{
+		"count": "5",
+		"name": "Progressive The World That Never Was Missions",
+		"category": ["Missions"],
+		"progression": true
+	},
+	{
+		"count": "26",
+		"name": "Progressive Twilight Town Missions",
+		"category": ["Missions"],
+		"progression": true
+	},
+	{
+		"count": "10",
+		"name": "Progressive Wonderland Missions",
+		"category": ["Missions"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Xemnas",
+		"category": ["Characters"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Xigbar",
+		"category": ["Characters"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Xaldin",
+		"category": ["Characters"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Vexen",
+		"category": ["Characters"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Lexaeus",
+		"category": ["Characters"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Zexion",
+		"category": ["Characters"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Saix",
+		"category": ["Characters"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Axel",
+		"category": ["Characters"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Demyx",
+		"category": ["Characters"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Luxord",
+		"category": ["Characters"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Marluxia",
+		"category": ["Characters"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Larxene",
+		"category": ["Characters"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Roxas",
+		"category": ["Characters"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Xion",
+		"category": ["Characters"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Riku",
+		"category": ["Characters"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Donald",
+		"category": ["Characters"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Goofy",
+		"category": ["Characters"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "King Mickey",
+		"category": ["Characters"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Sora",
+		"category": ["Characters"],
+		"useful": true
+	},
+	{
+		"count":2,
+		"name": "Panel Page",
+		"category": ["Panel Page"],
+		"useful": true
+	}
+]
