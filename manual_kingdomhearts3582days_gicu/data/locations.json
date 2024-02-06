@@ -216,7 +216,7 @@
 		"name": "(TT) Mission 03 Reward 6",
 		"region": "Mission Mode",
 		"category": ["Twilight Town Missions"],
-		"requires": "|Progressive Twilight Town Missions:4|"
+		"requires": "|Progressive Twilight Town Missions:4| AND |Level Up:1|"
 	},
 	{
 		"name": "(TT) Mission 04 Reward 1",

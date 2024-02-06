@@ -57,7 +57,7 @@
 		"count": "32",
 		"name": "Level Up",
 		"category": ["Support Panels"],
-		"useful": true
+		"progression": true
 	},
 	{
 		"count":1,
@@ -822,31 +822,31 @@
 		"useful": true
 	},
 	{
-		"count":"3",
+		"count": "3",
 		"name": "Ability Unit",
 		"category": ["Weapon Panels"],
 		"useful": true
 	},
 	{
-		"count":"5",
+		"count": "5",
 		"name": "Power Unit",
 		"category": ["Weapon Panels"],
 		"useful": true
 	},
 	{
-		"count":"5",
+		"count": "5",
 		"name": "Magic Unit",
 		"category": ["Weapon Panels"],
 		"useful": true
 	},
 	{
-		"count":"5",
+		"count": "5",
 		"name": "Guard Unit",
 		"category": ["Weapon Panels"],
 		"useful": true
 	},
 	{
-		"count":"5",
+		"count": "5",
 		"name": "Sight Unit",
 		"category": ["Weapon Panels"],
 		"useful": true
