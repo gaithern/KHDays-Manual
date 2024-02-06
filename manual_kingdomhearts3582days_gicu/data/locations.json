@@ -110,874 +110,658 @@
 		"requires": "|Progressive Twilight Town Missions:1|"
 	},
 	{
-		"name": "(TT) Mission 01 Reward 1",
-		"region": "Mission Mode",
-		"category": ["Twilight Town Missions"],
-		"requires": "|Progressive Twilight Town Missions:2|"
-	},
-	{
-		"name": "(TT) Mission 01 Reward 2",
-		"region": "Mission Mode",
-		"category": ["Twilight Town Missions"],
-		"requires": "|Progressive Twilight Town Missions:2|"
-	},
-	{
-		"name": "(TT) Mission 01 Reward 3",
-		"region": "Mission Mode",
-		"category": ["Twilight Town Missions"],
-		"requires": "|Progressive Twilight Town Missions:2|"
-	},
-	{
-		"name": "(TT) Mission 01 Reward 4",
-		"region": "Mission Mode",
-		"category": ["Twilight Town Missions"],
-		"requires": "|Progressive Twilight Town Missions:2|"
-	},
-	{
-		"name": "(TT) Mission 01 Reward 5",
-		"region": "Mission Mode",
-		"category": ["Twilight Town Missions"],
-		"requires": "|Progressive Twilight Town Missions:2|"
-	},
-	{
-		"name": "(TT) Mission 01 Reward 6",
-		"region": "Mission Mode",
-		"category": ["Twilight Town Missions"],
-		"requires": "|Progressive Twilight Town Missions:2|"
-	},
-	{
-		"name": "(TT) Mission 02 Reward 1",
-		"region": "Mission Mode",
-		"category": ["Twilight Town Missions"],
-		"requires": "|Progressive Twilight Town Missions:3|"
-	},
-	{
-		"name": "(TT) Mission 02 Reward 2",
-		"region": "Mission Mode",
-		"category": ["Twilight Town Missions"],
-		"requires": "|Progressive Twilight Town Missions:3|"
-	},
-	{
-		"name": "(TT) Mission 02 Reward 3",
-		"region": "Mission Mode",
-		"category": ["Twilight Town Missions"],
-		"requires": "|Progressive Twilight Town Missions:3|"
-	},
-	{
-		"name": "(TT) Mission 02 Reward 4",
-		"region": "Mission Mode",
-		"category": ["Twilight Town Missions"],
-		"requires": "|Progressive Twilight Town Missions:3|"
-	},
-	{
-		"name": "(TT) Mission 02 Reward 5",
-		"region": "Mission Mode",
-		"category": ["Twilight Town Missions"],
-		"requires": "|Progressive Twilight Town Missions:3|"
-	},
-	{
-		"name": "(TT) Mission 02 Reward 6",
-		"region": "Mission Mode",
-		"category": ["Twilight Town Missions"],
-		"requires": "|Progressive Twilight Town Missions:3|"
-	},
-	{
-		"name": "(TT) Mission 03 Reward 1",
-		"region": "Mission Mode",
-		"category": ["Twilight Town Missions"],
-		"requires": "|Progressive Twilight Town Missions:4| AND |Level Up:1|"
-	},
-	{
-		"name": "(TT) Mission 03 Reward 2",
-		"region": "Mission Mode",
-		"category": ["Twilight Town Missions"],
-		"requires": "|Progressive Twilight Town Missions:4| AND |Level Up:1|"
-	},
-	{
-		"name": "(TT) Mission 03 Reward 3",
-		"region": "Mission Mode",
-		"category": ["Twilight Town Missions"],
-		"requires": "|Progressive Twilight Town Missions:4| AND |Level Up:1|"
-	},
-	{
-		"name": "(TT) Mission 03 Reward 4",
-		"region": "Mission Mode",
-		"category": ["Twilight Town Missions"],
-		"requires": "|Progressive Twilight Town Missions:4| AND |Level Up:1|"
-	},
-	{
-		"name": "(TT) Mission 03 Reward 5",
-		"region": "Mission Mode",
-		"category": ["Twilight Town Missions"],
-		"requires": "|Progressive Twilight Town Missions:4| AND |Level Up:1|"
-	},
-	{
-		"name": "(TT) Mission 03 Reward 6",
-		"region": "Mission Mode",
-		"category": ["Twilight Town Missions"],
-		"requires": "|Progressive Twilight Town Missions:4| AND |Level Up:1|"
-	},
-	{
-		"name": "(TT) Mission 04 Reward 1",
-		"region": "Mission Mode",
-		"category": ["Twilight Town Missions"],
-		"requires": "|Progressive Twilight Town Missions:5| AND |Level Up:1|"
-	},
-	{
-		"name": "(TT) Mission 04 Reward 2",
-		"region": "Mission Mode",
-		"category": ["Twilight Town Missions"],
-		"requires": "|Progressive Twilight Town Missions:5| AND |Level Up:1|"
-	},
-	{
-		"name": "(TT) Mission 04 Reward 3",
-		"region": "Mission Mode",
-		"category": ["Twilight Town Missions"],
-		"requires": "|Progressive Twilight Town Missions:5| AND |Level Up:1|"
-	},
-	{
-		"name": "(TT) Mission 04 Reward 4",
-		"region": "Mission Mode",
-		"category": ["Twilight Town Missions"],
-		"requires": "|Progressive Twilight Town Missions:5| AND |Level Up:1|"
-	},
-	{
-		"name": "(TT) Mission 04 Reward 5",
-		"region": "Mission Mode",
-		"category": ["Twilight Town Missions"],
-		"requires": "|Progressive Twilight Town Missions:5| AND |Level Up:1|"
-	},
-	{
-		"name": "(TT) Mission 04 Reward 6",
-		"region": "Mission Mode",
-		"category": ["Twilight Town Missions"],
-		"requires": "|Progressive Twilight Town Missions:5| AND |Level Up:1|"
-	},
-	{
-		"name": "(TT) Mission 05 Reward 1",
-		"region": "Mission Mode",
-		"category": ["Twilight Town Missions"],
-		"requires": "|Progressive Twilight Town Missions:6| AND |Level Up:2|"
-	},
-	{
-		"name": "(TT) Mission 05 Reward 2",
-		"region": "Mission Mode",
-		"category": ["Twilight Town Missions"],
-		"requires": "|Progressive Twilight Town Missions:6| AND |Level Up:2|"
-	},
-	{
-		"name": "(TT) Mission 05 Reward 3",
-		"region": "Mission Mode",
-		"category": ["Twilight Town Missions"],
-		"requires": "|Progressive Twilight Town Missions:6| AND |Level Up:2|"
-	},
-	{
-		"name": "(TT) Mission 05 Reward 4",
-		"region": "Mission Mode",
-		"category": ["Twilight Town Missions"],
-		"requires": "|Progressive Twilight Town Missions:6| AND |Level Up:2|"
-	},
-	{
-		"name": "(TT) Mission 05 Reward 5",
-		"region": "Mission Mode",
-		"category": ["Twilight Town Missions"],
-		"requires": "|Progressive Twilight Town Missions:6| AND |Level Up:2|"
-	},
-	{
-		"name": "(TT) Mission 05 Reward 6",
-		"region": "Mission Mode",
-		"category": ["Twilight Town Missions"],
-		"requires": "|Progressive Twilight Town Missions:6| AND |Level Up:2|"
-	},
-	{
-		"name": "(TT) Mission 06 Reward 1",
-		"region": "Mission Mode",
-		"category": ["Twilight Town Missions"],
-		"requires": "|Progressive Twilight Town Missions:7| AND |Level Up:2|"
-	},
-	{
-		"name": "(TT) Mission 06 Reward 2",
-		"region": "Mission Mode",
-		"category": ["Twilight Town Missions"],
-		"requires": "|Progressive Twilight Town Missions:7| AND |Level Up:2|"
-	},
-	{
-		"name": "(TT) Mission 06 Reward 3",
-		"region": "Mission Mode",
-		"category": ["Twilight Town Missions"],
-		"requires": "|Progressive Twilight Town Missions:7| AND |Level Up:2|"
-	},
-	{
-		"name": "(TT) Mission 06 Reward 4",
-		"region": "Mission Mode",
-		"category": ["Twilight Town Missions"],
-		"requires": "|Progressive Twilight Town Missions:7| AND |Level Up:2|"
-	},
-	{
-		"name": "(TT) Mission 06 Reward 5",
-		"region": "Mission Mode",
-		"category": ["Twilight Town Missions"],
-		"requires": "|Progressive Twilight Town Missions:7| AND |Level Up:2|"
-	},
-	{
-		"name": "(TT) Mission 06 Reward 6",
-		"region": "Mission Mode",
-		"category": ["Twilight Town Missions"],
-		"requires": "|Progressive Twilight Town Missions:7| AND |Level Up:2|"
-	},
-	{
 		"name": "(TT) Mission 07 Reward 1",
 		"region": "Mission Mode",
 		"category": ["Twilight Town Missions"],
-		"requires": "|Progressive Twilight Town Missions:8| AND |Level Up:2|"
+		"requires": "|Progressive Twilight Town Missions:2| AND |Level Up:2|"
 	},
 	{
 		"name": "(TT) Mission 07 Reward 2",
 		"region": "Mission Mode",
 		"category": ["Twilight Town Missions"],
-		"requires": "|Progressive Twilight Town Missions:8| AND |Level Up:2|"
+		"requires": "|Progressive Twilight Town Missions:2| AND |Level Up:2|"
 	},
 	{
 		"name": "(TT) Mission 07 Reward 3",
 		"region": "Mission Mode",
 		"category": ["Twilight Town Missions"],
-		"requires": "|Progressive Twilight Town Missions:8| AND |Level Up:2|"
+		"requires": "|Progressive Twilight Town Missions:2| AND |Level Up:2|"
 	},
 	{
 		"name": "(TT) Mission 07 Reward 4",
 		"region": "Mission Mode",
 		"category": ["Twilight Town Missions"],
-		"requires": "|Progressive Twilight Town Missions:8| AND |Level Up:2|"
+		"requires": "|Progressive Twilight Town Missions:2| AND |Level Up:2|"
 	},
 	{
 		"name": "(TT) Mission 07 Reward 5",
 		"region": "Mission Mode",
 		"category": ["Twilight Town Missions"],
-		"requires": "|Progressive Twilight Town Missions:8| AND |Level Up:2|"
+		"requires": "|Progressive Twilight Town Missions:2| AND |Level Up:2|"
 	},
 	{
 		"name": "(TT) Mission 07 Reward 6",
 		"region": "Mission Mode",
 		"category": ["Twilight Town Missions"],
-		"requires": "|Progressive Twilight Town Missions:8| AND |Level Up:2|"
+		"requires": "|Progressive Twilight Town Missions:2| AND |Level Up:2|"
 	},
 	{
 		"name": "(TT) Mission 08 Reward 1",
 		"region": "Mission Mode",
 		"category": ["Twilight Town Missions"],
-		"requires": "|Progressive Twilight Town Missions:9| AND |Level Up:3|"
+		"requires": "|Progressive Twilight Town Missions:3| AND |Level Up:3|"
 	},
 	{
 		"name": "(TT) Mission 08 Reward 2",
 		"region": "Mission Mode",
 		"category": ["Twilight Town Missions"],
-		"requires": "|Progressive Twilight Town Missions:9| AND |Level Up:3|"
+		"requires": "|Progressive Twilight Town Missions:3| AND |Level Up:3|"
 	},
 	{
 		"name": "(TT) Mission 08 Reward 3",
 		"region": "Mission Mode",
 		"category": ["Twilight Town Missions"],
-		"requires": "|Progressive Twilight Town Missions:9| AND |Level Up:3|"
+		"requires": "|Progressive Twilight Town Missions:3| AND |Level Up:3|"
 	},
 	{
 		"name": "(TT) Mission 08 Reward 4",
 		"region": "Mission Mode",
 		"category": ["Twilight Town Missions"],
-		"requires": "|Progressive Twilight Town Missions:9| AND |Level Up:3|"
+		"requires": "|Progressive Twilight Town Missions:3| AND |Level Up:3|"
 	},
 	{
 		"name": "(TT) Mission 08 Reward 5",
 		"region": "Mission Mode",
 		"category": ["Twilight Town Missions"],
-		"requires": "|Progressive Twilight Town Missions:9| AND |Level Up:3|"
+		"requires": "|Progressive Twilight Town Missions:3| AND |Level Up:3|"
 	},
 	{
 		"name": "(TT) Mission 08 Reward 6",
 		"region": "Mission Mode",
 		"category": ["Twilight Town Missions"],
-		"requires": "|Progressive Twilight Town Missions:9| AND |Level Up:3|"
+		"requires": "|Progressive Twilight Town Missions:3| AND |Level Up:3|"
 	},
 	{
 		"name": "(TT) Mission 09 Reward 1",
 		"region": "Mission Mode",
 		"category": ["Twilight Town Missions"],
-		"requires": "|Progressive Twilight Town Missions:10| AND |Level Up:3|"
+		"requires": "|Progressive Twilight Town Missions:4| AND |Level Up:3|"
 	},
 	{
 		"name": "(TT) Mission 09 Reward 2",
 		"region": "Mission Mode",
 		"category": ["Twilight Town Missions"],
-		"requires": "|Progressive Twilight Town Missions:10| AND |Level Up:3|"
+		"requires": "|Progressive Twilight Town Missions:4| AND |Level Up:3|"
 	},
 	{
 		"name": "(TT) Mission 09 Reward 3",
 		"region": "Mission Mode",
 		"category": ["Twilight Town Missions"],
-		"requires": "|Progressive Twilight Town Missions:10| AND |Level Up:3|"
+		"requires": "|Progressive Twilight Town Missions:4| AND |Level Up:3|"
 	},
 	{
 		"name": "(TT) Mission 09 Reward 4",
 		"region": "Mission Mode",
 		"category": ["Twilight Town Missions"],
-		"requires": "|Progressive Twilight Town Missions:10| AND |Level Up:3|"
+		"requires": "|Progressive Twilight Town Missions:4| AND |Level Up:3|"
 	},
 	{
 		"name": "(TT) Mission 09 Reward 5",
 		"region": "Mission Mode",
 		"category": ["Twilight Town Missions"],
-		"requires": "|Progressive Twilight Town Missions:10| AND |Level Up:3|"
+		"requires": "|Progressive Twilight Town Missions:4| AND |Level Up:3|"
 	},
 	{
 		"name": "(TT) Mission 09 Reward 6",
 		"region": "Mission Mode",
 		"category": ["Twilight Town Missions"],
-		"requires": "|Progressive Twilight Town Missions:10| AND |Level Up:3|"
+		"requires": "|Progressive Twilight Town Missions:4| AND |Level Up:3|"
 	},
 	{
 		"name": "(TT) Mission 11 Reward 1",
 		"region": "Mission Mode",
 		"category": ["Twilight Town Missions"],
-		"requires": "|Progressive Twilight Town Missions:11| AND |Level Up:3|"
+		"requires": "|Progressive Twilight Town Missions:5| AND |Level Up:3|"
 	},
 	{
 		"name": "(TT) Mission 11 Reward 2",
 		"region": "Mission Mode",
 		"category": ["Twilight Town Missions"],
-		"requires": "|Progressive Twilight Town Missions:11| AND |Level Up:3|"
+		"requires": "|Progressive Twilight Town Missions:5| AND |Level Up:3|"
 	},
 	{
 		"name": "(TT) Mission 11 Reward 3",
 		"region": "Mission Mode",
 		"category": ["Twilight Town Missions"],
-		"requires": "|Progressive Twilight Town Missions:11| AND |Level Up:3|"
+		"requires": "|Progressive Twilight Town Missions:5| AND |Level Up:3|"
 	},
 	{
 		"name": "(TT) Mission 11 Reward 4",
 		"region": "Mission Mode",
 		"category": ["Twilight Town Missions"],
-		"requires": "|Progressive Twilight Town Missions:11| AND |Level Up:3|"
+		"requires": "|Progressive Twilight Town Missions:5| AND |Level Up:3|"
 	},
 	{
 		"name": "(TT) Mission 11 Reward 5",
 		"region": "Mission Mode",
 		"category": ["Twilight Town Missions"],
-		"requires": "|Progressive Twilight Town Missions:11| AND |Level Up:3|"
+		"requires": "|Progressive Twilight Town Missions:5| AND |Level Up:3|"
 	},
 	{
 		"name": "(TT) Mission 11 Reward 6",
 		"region": "Mission Mode",
 		"category": ["Twilight Town Missions"],
-		"requires": "|Progressive Twilight Town Missions:11| AND |Level Up:3|"
+		"requires": "|Progressive Twilight Town Missions:5| AND |Level Up:3|"
 	},
 	{
 		"name": "(TT) Mission 12 Reward 1",
 		"region": "Mission Mode",
 		"category": ["Twilight Town Missions"],
-		"requires": "|Progressive Twilight Town Missions:12| AND |Level Up:4|"
+		"requires": "|Progressive Twilight Town Missions:6| AND |Level Up:4|"
 	},
 	{
 		"name": "(TT) Mission 12 Reward 2",
 		"region": "Mission Mode",
 		"category": ["Twilight Town Missions"],
-		"requires": "|Progressive Twilight Town Missions:12| AND |Level Up:4|"
+		"requires": "|Progressive Twilight Town Missions:6| AND |Level Up:4|"
 	},
 	{
 		"name": "(TT) Mission 12 Reward 3",
 		"region": "Mission Mode",
 		"category": ["Twilight Town Missions"],
-		"requires": "|Progressive Twilight Town Missions:12| AND |Level Up:4|"
+		"requires": "|Progressive Twilight Town Missions:6| AND |Level Up:4|"
 	},
 	{
 		"name": "(TT) Mission 12 Reward 4",
 		"region": "Mission Mode",
 		"category": ["Twilight Town Missions"],
-		"requires": "|Progressive Twilight Town Missions:12| AND |Level Up:4|"
+		"requires": "|Progressive Twilight Town Missions:6| AND |Level Up:4|"
 	},
 	{
 		"name": "(TT) Mission 12 Reward 5",
 		"region": "Mission Mode",
 		"category": ["Twilight Town Missions"],
-		"requires": "|Progressive Twilight Town Missions:12| AND |Level Up:4|"
+		"requires": "|Progressive Twilight Town Missions:6| AND |Level Up:4|"
 	},
 	{
 		"name": "(TT) Mission 12 Reward 6",
 		"region": "Mission Mode",
 		"category": ["Twilight Town Missions"],
-		"requires": "|Progressive Twilight Town Missions:12| AND |Level Up:4|"
+		"requires": "|Progressive Twilight Town Missions:6| AND |Level Up:4|"
 	},
 	{
 		"name": "(TT) Mission 13 Reward 1",
 		"region": "Mission Mode",
 		"category": ["Twilight Town Missions"],
-		"requires": "|Progressive Twilight Town Missions:13| AND |Level Up:4|"
+		"requires": "|Progressive Twilight Town Missions:7| AND |Level Up:4|"
 	},
 	{
 		"name": "(TT) Mission 13 Reward 2",
 		"region": "Mission Mode",
 		"category": ["Twilight Town Missions"],
-		"requires": "|Progressive Twilight Town Missions:13| AND |Level Up:4|"
+		"requires": "|Progressive Twilight Town Missions:7| AND |Level Up:4|"
 	},
 	{
 		"name": "(TT) Mission 13 Reward 3",
 		"region": "Mission Mode",
 		"category": ["Twilight Town Missions"],
-		"requires": "|Progressive Twilight Town Missions:13| AND |Level Up:4|"
+		"requires": "|Progressive Twilight Town Missions:7| AND |Level Up:4|"
 	},
 	{
 		"name": "(TT) Mission 13 Reward 4",
 		"region": "Mission Mode",
 		"category": ["Twilight Town Missions"],
-		"requires": "|Progressive Twilight Town Missions:13| AND |Level Up:4|"
+		"requires": "|Progressive Twilight Town Missions:7| AND |Level Up:4|"
 	},
 	{
 		"name": "(TT) Mission 13 Reward 5",
 		"region": "Mission Mode",
 		"category": ["Twilight Town Missions"],
-		"requires": "|Progressive Twilight Town Missions:13| AND |Level Up:4|"
+		"requires": "|Progressive Twilight Town Missions:7| AND |Level Up:4|"
 	},
 	{
 		"name": "(TT) Mission 13 Reward 6",
 		"region": "Mission Mode",
 		"category": ["Twilight Town Missions"],
-		"requires": "|Progressive Twilight Town Missions:13| AND |Level Up:4|"
+		"requires": "|Progressive Twilight Town Missions:7| AND |Level Up:4|"
 	},
 	{
 		"name": "(TT) Mission 14 Reward 1",
 		"region": "Mission Mode",
 		"category": ["Twilight Town Missions"],
-		"requires": "|Progressive Twilight Town Missions:14| AND |Level Up:4|"
+		"requires": "|Progressive Twilight Town Missions:8| AND |Level Up:4|"
 	},
 	{
 		"name": "(TT) Mission 14 Reward 2",
 		"region": "Mission Mode",
 		"category": ["Twilight Town Missions"],
-		"requires": "|Progressive Twilight Town Missions:14| AND |Level Up:4|"
+		"requires": "|Progressive Twilight Town Missions:8| AND |Level Up:4|"
 	},
 	{
 		"name": "(TT) Mission 14 Reward 3",
 		"region": "Mission Mode",
 		"category": ["Twilight Town Missions"],
-		"requires": "|Progressive Twilight Town Missions:14| AND |Level Up:4|"
+		"requires": "|Progressive Twilight Town Missions:8| AND |Level Up:4|"
 	},
 	{
 		"name": "(TT) Mission 14 Reward 4",
 		"region": "Mission Mode",
 		"category": ["Twilight Town Missions"],
-		"requires": "|Progressive Twilight Town Missions:14| AND |Level Up:4|"
+		"requires": "|Progressive Twilight Town Missions:8| AND |Level Up:4|"
 	},
 	{
 		"name": "(TT) Mission 14 Reward 5",
 		"region": "Mission Mode",
 		"category": ["Twilight Town Missions"],
-		"requires": "|Progressive Twilight Town Missions:14| AND |Level Up:4|"
+		"requires": "|Progressive Twilight Town Missions:8| AND |Level Up:4|"
 	},
 	{
 		"name": "(TT) Mission 14 Reward 6",
 		"region": "Mission Mode",
 		"category": ["Twilight Town Missions"],
-		"requires": "|Progressive Twilight Town Missions:14| AND |Level Up:4|"
+		"requires": "|Progressive Twilight Town Missions:8| AND |Level Up:4|"
 	},
 	{
 		"name": "(TT) Mission 17 Reward 1",
 		"region": "Mission Mode",
 		"category": ["Twilight Town Missions"],
-		"requires": "|Progressive Twilight Town Missions:15| AND |Level Up:5|"
+		"requires": "|Progressive Twilight Town Missions:9| AND |Level Up:5|"
 	},
 	{
 		"name": "(TT) Mission 17 Reward 2",
 		"region": "Mission Mode",
 		"category": ["Twilight Town Missions"],
-		"requires": "|Progressive Twilight Town Missions:15| AND |Level Up:5|"
+		"requires": "|Progressive Twilight Town Missions:9| AND |Level Up:5|"
 	},
 	{
 		"name": "(TT) Mission 17 Reward 3",
 		"region": "Mission Mode",
 		"category": ["Twilight Town Missions"],
-		"requires": "|Progressive Twilight Town Missions:15| AND |Level Up:5|"
+		"requires": "|Progressive Twilight Town Missions:9| AND |Level Up:5|"
 	},
 	{
 		"name": "(TT) Mission 17 Reward 4",
 		"region": "Mission Mode",
 		"category": ["Twilight Town Missions"],
-		"requires": "|Progressive Twilight Town Missions:15| AND |Level Up:5|"
+		"requires": "|Progressive Twilight Town Missions:9| AND |Level Up:5|"
 	},
 	{
 		"name": "(TT) Mission 17 Reward 5",
 		"region": "Mission Mode",
 		"category": ["Twilight Town Missions"],
-		"requires": "|Progressive Twilight Town Missions:15| AND |Level Up:5|"
+		"requires": "|Progressive Twilight Town Missions:9| AND |Level Up:5|"
 	},
 	{
 		"name": "(TT) Mission 17 Reward 6",
 		"region": "Mission Mode",
 		"category": ["Twilight Town Missions"],
-		"requires": "|Progressive Twilight Town Missions:15| AND |Level Up:6|"
+		"requires": "|Progressive Twilight Town Missions:9| AND |Level Up:6|"
 	},
 	{
 		"name": "(TT) Mission 20 Reward 1",
 		"region": "Mission Mode",
 		"category": ["Twilight Town Missions"],
-		"requires": "|Progressive Twilight Town Missions:16| AND |Level Up:6|"
+		"requires": "|Progressive Twilight Town Missions:10| AND |Level Up:6|"
 	},
 	{
 		"name": "(TT) Mission 20 Reward 2",
 		"region": "Mission Mode",
 		"category": ["Twilight Town Missions"],
-		"requires": "|Progressive Twilight Town Missions:16| AND |Level Up:6|"
+		"requires": "|Progressive Twilight Town Missions:10| AND |Level Up:6|"
 	},
 	{
 		"name": "(TT) Mission 20 Reward 3",
 		"region": "Mission Mode",
 		"category": ["Twilight Town Missions"],
-		"requires": "|Progressive Twilight Town Missions:16| AND |Level Up:6|"
+		"requires": "|Progressive Twilight Town Missions:10| AND |Level Up:6|"
 	},
 	{
 		"name": "(TT) Mission 20 Reward 4",
 		"region": "Mission Mode",
 		"category": ["Twilight Town Missions"],
-		"requires": "|Progressive Twilight Town Missions:16| AND |Level Up:6|"
+		"requires": "|Progressive Twilight Town Missions:10| AND |Level Up:6|"
 	},
 	{
 		"name": "(TT) Mission 20 Reward 5",
 		"region": "Mission Mode",
 		"category": ["Twilight Town Missions"],
-		"requires": "|Progressive Twilight Town Missions:16| AND |Level Up:6|"
+		"requires": "|Progressive Twilight Town Missions:10| AND |Level Up:6|"
 	},
 	{
 		"name": "(TT) Mission 20 Reward 6",
 		"region": "Mission Mode",
 		"category": ["Twilight Town Missions"],
-		"requires": "|Progressive Twilight Town Missions:16| AND |Level Up:6|"
+		"requires": "|Progressive Twilight Town Missions:10| AND |Level Up:6|"
 	},
 	{
 		"name": "(TT) Mission 23 Reward 1",
 		"region": "Mission Mode",
 		"category": ["Twilight Town Missions"],
-		"requires": "|Progressive Twilight Town Missions:17| AND |Level Up:7|"
+		"requires": "|Progressive Twilight Town Missions:11| AND |Level Up:7|"
 	},
 	{
 		"name": "(TT) Mission 23 Reward 2",
 		"region": "Mission Mode",
 		"category": ["Twilight Town Missions"],
-		"requires": "|Progressive Twilight Town Missions:17| AND |Level Up:7|"
+		"requires": "|Progressive Twilight Town Missions:11| AND |Level Up:7|"
 	},
 	{
 		"name": "(TT) Mission 23 Reward 3",
 		"region": "Mission Mode",
 		"category": ["Twilight Town Missions"],
-		"requires": "|Progressive Twilight Town Missions:17| AND |Level Up:7|"
+		"requires": "|Progressive Twilight Town Missions:11| AND |Level Up:7|"
 	},
 	{
 		"name": "(TT) Mission 23 Reward 4",
 		"region": "Mission Mode",
 		"category": ["Twilight Town Missions"],
-		"requires": "|Progressive Twilight Town Missions:17| AND |Level Up:7|"
+		"requires": "|Progressive Twilight Town Missions:11| AND |Level Up:7|"
 	},
 	{
 		"name": "(TT) Mission 23 Reward 5",
 		"region": "Mission Mode",
 		"category": ["Twilight Town Missions"],
-		"requires": "|Progressive Twilight Town Missions:17| AND |Level Up:7|"
+		"requires": "|Progressive Twilight Town Missions:11| AND |Level Up:7|"
 	},
 	{
 		"name": "(TT) Mission 23 Reward 6",
 		"region": "Mission Mode",
 		"category": ["Twilight Town Missions"],
-		"requires": "|Progressive Twilight Town Missions:17| AND |Level Up:7|"
+		"requires": "|Progressive Twilight Town Missions:11| AND |Level Up:7|"
 	},
 	{
 		"name": "(TT) Mission 25 Reward 1",
 		"region": "Mission Mode",
 		"category": ["Twilight Town Missions"],
-		"requires": "|Progressive Twilight Town Missions:18| AND |Level Up:8|"
+		"requires": "|Progressive Twilight Town Missions:12| AND |Level Up:8|"
 	},
 	{
 		"name": "(TT) Mission 25 Reward 2",
 		"region": "Mission Mode",
 		"category": ["Twilight Town Missions"],
-		"requires": "|Progressive Twilight Town Missions:18| AND |Level Up:8|"
+		"requires": "|Progressive Twilight Town Missions:12| AND |Level Up:8|"
 	},
 	{
 		"name": "(TT) Mission 25 Reward 3",
 		"region": "Mission Mode",
 		"category": ["Twilight Town Missions"],
-		"requires": "|Progressive Twilight Town Missions:18| AND |Level Up:8|"
+		"requires": "|Progressive Twilight Town Missions:12| AND |Level Up:8|"
 	},
 	{
 		"name": "(TT) Mission 25 Reward 4",
 		"region": "Mission Mode",
 		"category": ["Twilight Town Missions"],
-		"requires": "|Progressive Twilight Town Missions:18| AND |Level Up:8|"
+		"requires": "|Progressive Twilight Town Missions:12| AND |Level Up:8|"
 	},
 	{
 		"name": "(TT) Mission 25 Reward 5",
 		"region": "Mission Mode",
 		"category": ["Twilight Town Missions"],
-		"requires": "|Progressive Twilight Town Missions:18| AND |Level Up:8|"
+		"requires": "|Progressive Twilight Town Missions:12| AND |Level Up:8|"
 	},
 	{
 		"name": "(TT) Mission 25 Reward 6",
 		"region": "Mission Mode",
 		"category": ["Twilight Town Missions"],
-		"requires": "|Progressive Twilight Town Missions:18| AND |Level Up:8|"
+		"requires": "|Progressive Twilight Town Missions:12| AND |Level Up:8|"
 	},
 	{
 		"name": "(TT) Mission 37 Reward 1",
 		"region": "Mission Mode",
 		"category": ["Twilight Town Missions"],
-		"requires": "|Progressive Twilight Town Missions:19| AND |Level Up:12|"
+		"requires": "|Progressive Twilight Town Missions:13| AND |Level Up:12|"
 	},
 	{
 		"name": "(TT) Mission 37 Reward 2",
 		"region": "Mission Mode",
 		"category": ["Twilight Town Missions"],
-		"requires": "|Progressive Twilight Town Missions:19| AND |Level Up:12|"
+		"requires": "|Progressive Twilight Town Missions:13| AND |Level Up:12|"
 	},
 	{
 		"name": "(TT) Mission 37 Reward 3",
 		"region": "Mission Mode",
 		"category": ["Twilight Town Missions"],
-		"requires": "|Progressive Twilight Town Missions:19| AND |Level Up:12|"
+		"requires": "|Progressive Twilight Town Missions:13| AND |Level Up:12|"
 	},
 	{
 		"name": "(TT) Mission 37 Reward 4",
 		"region": "Mission Mode",
 		"category": ["Twilight Town Missions"],
-		"requires": "|Progressive Twilight Town Missions:19| AND |Level Up:12|"
+		"requires": "|Progressive Twilight Town Missions:13| AND |Level Up:12|"
 	},
 	{
 		"name": "(TT) Mission 37 Reward 5",
 		"region": "Mission Mode",
 		"category": ["Twilight Town Missions"],
-		"requires": "|Progressive Twilight Town Missions:19| AND |Level Up:12|"
+		"requires": "|Progressive Twilight Town Missions:13| AND |Level Up:12|"
 	},
 	{
 		"name": "(TT) Mission 37 Reward 6",
 		"region": "Mission Mode",
 		"category": ["Twilight Town Missions"],
-		"requires": "|Progressive Twilight Town Missions:19| AND |Level Up:12|"
+		"requires": "|Progressive Twilight Town Missions:13| AND |Level Up:12|"
 	},
 	{
 		"name": "(TT) Mission 44 Reward 1",
 		"region": "Mission Mode",
 		"category": ["Twilight Town Missions"],
-		"requires": "|Progressive Twilight Town Missions:20| AND |Level Up:14|"
+		"requires": "|Progressive Twilight Town Missions:14| AND |Level Up:14|"
 	},
 	{
 		"name": "(TT) Mission 44 Reward 2",
 		"region": "Mission Mode",
 		"category": ["Twilight Town Missions"],
-		"requires": "|Progressive Twilight Town Missions:20| AND |Level Up:14|"
+		"requires": "|Progressive Twilight Town Missions:14| AND |Level Up:14|"
 	},
 	{
 		"name": "(TT) Mission 44 Reward 3",
 		"region": "Mission Mode",
 		"category": ["Twilight Town Missions"],
-		"requires": "|Progressive Twilight Town Missions:20| AND |Level Up:14|"
+		"requires": "|Progressive Twilight Town Missions:14| AND |Level Up:14|"
 	},
 	{
 		"name": "(TT) Mission 44 Reward 4",
 		"region": "Mission Mode",
 		"category": ["Twilight Town Missions"],
-		"requires": "|Progressive Twilight Town Missions:20| AND |Level Up:14|"
+		"requires": "|Progressive Twilight Town Missions:14| AND |Level Up:14|"
 	},
 	{
 		"name": "(TT) Mission 44 Reward 5",
 		"region": "Mission Mode",
 		"category": ["Twilight Town Missions"],
-		"requires": "|Progressive Twilight Town Missions:20| AND |Level Up:14|"
+		"requires": "|Progressive Twilight Town Missions:14| AND |Level Up:14|"
 	},
 	{
 		"name": "(TT) Mission 44 Reward 6",
 		"region": "Mission Mode",
 		"category": ["Twilight Town Missions"],
-		"requires": "|Progressive Twilight Town Missions:20| AND |Level Up:14|"
+		"requires": "|Progressive Twilight Town Missions:14| AND |Level Up:14|"
 	},
 	{
 		"name": "(TT) Mission 56 Reward 1",
 		"region": "Mission Mode",
 		"category": ["Twilight Town Missions"],
-		"requires": "|Progressive Twilight Town Missions:21| AND |Level Up:18|"
+		"requires": "|Progressive Twilight Town Missions:15| AND |Level Up:18|"
 	},
 	{
 		"name": "(TT) Mission 56 Reward 2",
 		"region": "Mission Mode",
 		"category": ["Twilight Town Missions"],
-		"requires": "|Progressive Twilight Town Missions:21| AND |Level Up:18|"
+		"requires": "|Progressive Twilight Town Missions:15| AND |Level Up:18|"
 	},
 	{
 		"name": "(TT) Mission 56 Reward 3",
 		"region": "Mission Mode",
 		"category": ["Twilight Town Missions"],
-		"requires": "|Progressive Twilight Town Missions:21| AND |Level Up:18|"
+		"requires": "|Progressive Twilight Town Missions:15| AND |Level Up:18|"
 	},
 	{
 		"name": "(TT) Mission 56 Reward 4",
 		"region": "Mission Mode",
 		"category": ["Twilight Town Missions"],
-		"requires": "|Progressive Twilight Town Missions:21| AND |Level Up:18|"
+		"requires": "|Progressive Twilight Town Missions:15| AND |Level Up:18|"
 	},
 	{
 		"name": "(TT) Mission 56 Reward 5",
 		"region": "Mission Mode",
 		"category": ["Twilight Town Missions"],
-		"requires": "|Progressive Twilight Town Missions:21| AND |Level Up:18|"
+		"requires": "|Progressive Twilight Town Missions:15| AND |Level Up:18|"
 	},
 	{
 		"name": "(TT) Mission 56 Reward 6",
 		"region": "Mission Mode",
 		"category": ["Twilight Town Missions"],
-		"requires": "|Progressive Twilight Town Missions:21| AND |Level Up:18|"
+		"requires": "|Progressive Twilight Town Missions:15| AND |Level Up:18|"
 	},
 	{
 		"name": "(TT) Mission 59 Reward 1",
 		"region": "Mission Mode",
 		"category": ["Twilight Town Missions"],
-		"requires": "|Progressive Twilight Town Missions:22| AND |Level Up:19|"
+		"requires": "|Progressive Twilight Town Missions:16| AND |Level Up:19|"
 	},
 	{
 		"name": "(TT) Mission 59 Reward 2",
 		"region": "Mission Mode",
 		"category": ["Twilight Town Missions"],
-		"requires": "|Progressive Twilight Town Missions:22| AND |Level Up:19|"
+		"requires": "|Progressive Twilight Town Missions:16| AND |Level Up:19|"
 	},
 	{
 		"name": "(TT) Mission 59 Reward 3",
 		"region": "Mission Mode",
 		"category": ["Twilight Town Missions"],
-		"requires": "|Progressive Twilight Town Missions:22| AND |Level Up:19|"
+		"requires": "|Progressive Twilight Town Missions:16| AND |Level Up:19|"
 	},
 	{
 		"name": "(TT) Mission 59 Reward 4",
 		"region": "Mission Mode",
 		"category": ["Twilight Town Missions"],
-		"requires": "|Progressive Twilight Town Missions:22| AND |Level Up:19|"
+		"requires": "|Progressive Twilight Town Missions:16| AND |Level Up:19|"
 	},
 	{
 		"name": "(TT) Mission 59 Reward 5",
 		"region": "Mission Mode",
 		"category": ["Twilight Town Missions"],
-		"requires": "|Progressive Twilight Town Missions:22| AND |Level Up:19|"
+		"requires": "|Progressive Twilight Town Missions:16| AND |Level Up:19|"
 	},
 	{
 		"name": "(TT) Mission 59 Reward 6",
 		"region": "Mission Mode",
 		"category": ["Twilight Town Missions"],
-		"requires": "|Progressive Twilight Town Missions:22| AND |Level Up:19|"
+		"requires": "|Progressive Twilight Town Missions:16| AND |Level Up:19|"
 	},
 	{
 		"name": "(TT) Mission 74 Reward 1",
 		"region": "Mission Mode",
 		"category": ["Twilight Town Missions"],
-		"requires": "|Progressive Twilight Town Missions:23| AND |Level Up:24|"
+		"requires": "|Progressive Twilight Town Missions:17| AND |Level Up:24|"
 	},
 	{
 		"name": "(TT) Mission 74 Reward 2",
 		"region": "Mission Mode",
 		"category": ["Twilight Town Missions"],
-		"requires": "|Progressive Twilight Town Missions:23| AND |Level Up:24|"
+		"requires": "|Progressive Twilight Town Missions:17| AND |Level Up:24|"
 	},
 	{
 		"name": "(TT) Mission 74 Reward 3",
 		"region": "Mission Mode",
 		"category": ["Twilight Town Missions"],
-		"requires": "|Progressive Twilight Town Missions:23| AND |Level Up:24|"
+		"requires": "|Progressive Twilight Town Missions:17| AND |Level Up:24|"
 	},
 	{
 		"name": "(TT) Mission 74 Reward 4",
 		"region": "Mission Mode",
 		"category": ["Twilight Town Missions"],
-		"requires": "|Progressive Twilight Town Missions:23| AND |Level Up:24|"
+		"requires": "|Progressive Twilight Town Missions:17| AND |Level Up:24|"
 	},
 	{
 		"name": "(TT) Mission 74 Reward 5",
 		"region": "Mission Mode",
 		"category": ["Twilight Town Missions"],
-		"requires": "|Progressive Twilight Town Missions:23| AND |Level Up:24|"
+		"requires": "|Progressive Twilight Town Missions:17| AND |Level Up:24|"
 	},
 	{
 		"name": "(TT) Mission 74 Reward 6",
 		"region": "Mission Mode",
 		"category": ["Twilight Town Missions"],
-		"requires": "|Progressive Twilight Town Missions:23| AND |Level Up:24|"
+		"requires": "|Progressive Twilight Town Missions:17| AND |Level Up:24|"
 	},
 	{
 		"name": "(TT) Mission 75 Reward 1",
 		"region": "Mission Mode",
 		"category": ["Twilight Town Missions"],
-		"requires": "|Progressive Twilight Town Missions:24| AND |Level Up:25|"
+		"requires": "|Progressive Twilight Town Missions:18| AND |Level Up:25|"
 	},
 	{
 		"name": "(TT) Mission 75 Reward 2",
 		"region": "Mission Mode",
 		"category": ["Twilight Town Missions"],
-		"requires": "|Progressive Twilight Town Missions:24| AND |Level Up:25|"
+		"requires": "|Progressive Twilight Town Missions:18| AND |Level Up:25|"
 	},
 	{
 		"name": "(TT) Mission 75 Reward 3",
 		"region": "Mission Mode",
 		"category": ["Twilight Town Missions"],
-		"requires": "|Progressive Twilight Town Missions:24| AND |Level Up:25|"
+		"requires": "|Progressive Twilight Town Missions:18| AND |Level Up:25|"
 	},
 	{
 		"name": "(TT) Mission 75 Reward 4",
 		"region": "Mission Mode",
 		"category": ["Twilight Town Missions"],
-		"requires": "|Progressive Twilight Town Missions:24| AND |Level Up:25|"
+		"requires": "|Progressive Twilight Town Missions:18| AND |Level Up:25|"
 	},
 	{
 		"name": "(TT) Mission 75 Reward 5",
 		"region": "Mission Mode",
 		"category": ["Twilight Town Missions"],
-		"requires": "|Progressive Twilight Town Missions:24| AND |Level Up:25|"
+		"requires": "|Progressive Twilight Town Missions:18| AND |Level Up:25|"
 	},
 	{
 		"name": "(TT) Mission 75 Reward 6",
 		"region": "Mission Mode",
 		"category": ["Twilight Town Missions"],
-		"requires": "|Progressive Twilight Town Missions:24| AND |Level Up:25|"
+		"requires": "|Progressive Twilight Town Missions:18| AND |Level Up:25|"
 	},
 	{
 		"name": "(TT) Mission 89 Reward 1",
 		"region": "Mission Mode",
 		"category": ["Twilight Town Missions"],
-		"requires": "|Progressive Twilight Town Missions:25| AND |Level Up:29|"
+		"requires": "|Progressive Twilight Town Missions:19| AND |Level Up:29|"
 	},
 	{
 		"name": "(TT) Mission 89 Reward 2",
 		"region": "Mission Mode",
 		"category": ["Twilight Town Missions"],
-		"requires": "|Progressive Twilight Town Missions:25| AND |Level Up:29|"
+		"requires": "|Progressive Twilight Town Missions:19| AND |Level Up:29|"
 	},
 	{
 		"name": "(TT) Mission 89 Reward 3",
 		"region": "Mission Mode",
 		"category": ["Twilight Town Missions"],
-		"requires": "|Progressive Twilight Town Missions:25| AND |Level Up:29|"
+		"requires": "|Progressive Twilight Town Missions:19| AND |Level Up:29|"
 	},
 	{
 		"name": "(TT) Mission 89 Reward 4",
 		"region": "Mission Mode",
 		"category": ["Twilight Town Missions"],
-		"requires": "|Progressive Twilight Town Missions:25| AND |Level Up:29|"
+		"requires": "|Progressive Twilight Town Missions:19| AND |Level Up:29|"
 	},
 	{
 		"name": "(TT) Mission 89 Reward 5",
 		"region": "Mission Mode",
 		"category": ["Twilight Town Missions"],
-		"requires": "|Progressive Twilight Town Missions:25| AND |Level Up:29|"
+		"requires": "|Progressive Twilight Town Missions:19| AND |Level Up:29|"
 	},
 	{
 		"name": "(TT) Mission 89 Reward 6",
 		"region": "Mission Mode",
 		"category": ["Twilight Town Missions"],
-		"requires": "|Progressive Twilight Town Missions:25| AND |Level Up:29|"
+		"requires": "|Progressive Twilight Town Missions:19| AND |Level Up:29|"
 	},
 	{
 		"name": "(TT) Mission 92",
 		"region": "Mission Mode",
 		"category": ["Twilight Town Missions"],
-		"requires": "|Progressive Twilight Town Missions:26| AND |Level Up:30|",
+		"requires": "|Progressive Twilight Town Missions:20| AND |Level Up:30|",
 		"victory": true
 	},
 	{
